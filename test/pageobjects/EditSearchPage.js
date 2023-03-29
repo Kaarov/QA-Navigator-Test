@@ -28,6 +28,14 @@ class EditSearchPage {
         await this.channel_registration.click();
         await browser.pause(3000);
 
+        // Уровень лояльности
+        // await this.loyality_level.click();
+        // await this.choose_loyal_level_first.click();
+        // await browser.pause(1000);
+        // await this.choose_loyal_level_second.click();
+        // await this.loyality_level.click();
+        // await browser.pause(3000);
+
         // Пол
         await this.gender.click();
         await this.choose_gender_first.click();
