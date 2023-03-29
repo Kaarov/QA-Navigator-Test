@@ -1,4 +1,4 @@
-# QA-Navigator-Test
+# Export Clients list
 
 ## Get started
 
@@ -6,7 +6,7 @@
 
 `git init`
 
-`git clone https://github.com/Kaarov/QA-Navigator-Test.git`
+`git clone https://github.com/semapuska/QA-Navigator.git`
 
 ### Then you can run the project:
 
